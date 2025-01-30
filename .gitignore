@@ -1,0 +1,14 @@
+# Folders
+.vscode/
+dist/
+node_modules/
+.cache
+build/
+dist/
+
+# Files
+.DS_STORE
+.todo
+package-lock.json
+yarn.lock
+webpack.config.ts
